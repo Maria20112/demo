@@ -1,4 +1,4 @@
-package com.example.demo.models;
+package com.example.demo.models.Users_folder;
 
 import java.sql.Blob;
 

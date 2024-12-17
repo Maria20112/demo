@@ -1,4 +1,4 @@
-package com.example.demo.models;
+package com.example.demo.models.General_folder.ModelsForResponse;
 
 public class Footer {
     private int visits;
@@ -18,7 +18,8 @@ public class Footer {
         return visits;
     }
 
-    public String getDate(){
+    public 
+    String getDate(){
         return date;
     }
 }

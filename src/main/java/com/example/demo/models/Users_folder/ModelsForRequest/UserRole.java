@@ -1,4 +1,4 @@
-package com.example.demo.models;
+package com.example.demo.models.Users_folder.ModelsForRequest;
 
 public class UserRole {
     private String role;
